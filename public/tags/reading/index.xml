@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reading on moonselbee</title>
+    <link>http://localhost:1313/tags/reading/</link>
+    <description>Recent content in Reading on moonselbee</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Dec 2025 08:25:58 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/reading/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>night</title>
+      <link>http://localhost:1313/post/2025/night/</link>
+      <pubDate>Sun, 28 Dec 2025 08:25:58 +0000</pubDate>
+      <guid>http://localhost:1313/post/2025/night/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Once I was sated, my masculinity returned to me, and I paid more heed to the beautiful, starry sky. I wanted to see it at closer hand; so I buckled up my belt and climbed into the tree, scaling it from branch to branch, until my head was above its crown. Night was moving on. Many stars were sinking below the horizon. Everything seemed dark and dangerous, except the sky, except the river which spread a blaze of light all around. The hills of the Sarladais, recently so bright and shining, were now covered in mist. Once again I was feeling the cold, so much so that the only desire I now felt was to return as quickly as possible to my bed.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
