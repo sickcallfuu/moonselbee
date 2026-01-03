@@ -18,7 +18,7 @@ collections:
 
   - name: "page"
     label: "pages"
-    folder: "page"
+    folder: "content/page"
     create: true
     slug: "{{slug}}"
     fields:
@@ -29,7 +29,7 @@ collections:
 
   - name: "current" # Used in routes, e.g., /admin/collections/blog
     label: "current" # Used in the UI
-    folder: "current" # The path to the folder where the documents are stored
+    folder: "content/current" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
