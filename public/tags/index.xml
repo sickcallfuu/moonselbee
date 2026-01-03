@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on moonselbee</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://moonselbee.netlify.app/tags/</link>
     <description>Recent content in Tags on moonselbee</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Dec 2025 06:36:00 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://moonselbee.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mirror</title>
-      <link>http://localhost:1313/tags/mirror/</link>
+      <link>https://moonselbee.netlify.app/tags/mirror/</link>
       <pubDate>Mon, 29 Dec 2025 06:36:00 -0600</pubDate>
-      <guid>http://localhost:1313/tags/mirror/</guid>
+      <guid>https://moonselbee.netlify.app/tags/mirror/</guid>
       <description></description>
     </item>
     <item>
       <title>Callot</title>
-      <link>http://localhost:1313/tags/callot/</link>
+      <link>https://moonselbee.netlify.app/tags/callot/</link>
       <pubDate>Mon, 29 Dec 2025 06:11:00 -0600</pubDate>
-      <guid>http://localhost:1313/tags/callot/</guid>
+      <guid>https://moonselbee.netlify.app/tags/callot/</guid>
       <description></description>
     </item>
     <item>
       <title>Arms</title>
-      <link>http://localhost:1313/tags/arms/</link>
+      <link>https://moonselbee.netlify.app/tags/arms/</link>
       <pubDate>Sun, 28 Dec 2025 08:33:15 +0000</pubDate>
-      <guid>http://localhost:1313/tags/arms/</guid>
+      <guid>https://moonselbee.netlify.app/tags/arms/</guid>
       <description></description>
     </item>
     <item>
       <title>Stick</title>
-      <link>http://localhost:1313/tags/stick/</link>
+      <link>https://moonselbee.netlify.app/tags/stick/</link>
       <pubDate>Sun, 28 Dec 2025 08:33:15 +0000</pubDate>
-      <guid>http://localhost:1313/tags/stick/</guid>
+      <guid>https://moonselbee.netlify.app/tags/stick/</guid>
       <description></description>
     </item>
     <item>
       <title>François Augiéras</title>
-      <link>http://localhost:1313/tags/fran%C3%A7ois-augi%C3%A9ras/</link>
+      <link>https://moonselbee.netlify.app/tags/fran%C3%A7ois-augi%C3%A9ras/</link>
       <pubDate>Sun, 28 Dec 2025 08:25:58 +0000</pubDate>
-      <guid>http://localhost:1313/tags/fran%C3%A7ois-augi%C3%A9ras/</guid>
+      <guid>https://moonselbee.netlify.app/tags/fran%C3%A7ois-augi%C3%A9ras/</guid>
       <description></description>
     </item>
     <item>
       <title>Night</title>
-      <link>http://localhost:1313/tags/night/</link>
+      <link>https://moonselbee.netlify.app/tags/night/</link>
       <pubDate>Sun, 28 Dec 2025 08:25:58 +0000</pubDate>
-      <guid>http://localhost:1313/tags/night/</guid>
+      <guid>https://moonselbee.netlify.app/tags/night/</guid>
       <description></description>
     </item>
     <item>
       <title>Reading</title>
-      <link>http://localhost:1313/tags/reading/</link>
+      <link>https://moonselbee.netlify.app/tags/reading/</link>
       <pubDate>Sun, 28 Dec 2025 08:25:58 +0000</pubDate>
-      <guid>http://localhost:1313/tags/reading/</guid>
+      <guid>https://moonselbee.netlify.app/tags/reading/</guid>
       <description></description>
     </item>
     <item>
       <title>Bat</title>
-      <link>http://localhost:1313/tags/bat/</link>
+      <link>https://moonselbee.netlify.app/tags/bat/</link>
       <pubDate>Sun, 28 Dec 2025 05:53:33 +0000</pubDate>
-      <guid>http://localhost:1313/tags/bat/</guid>
+      <guid>https://moonselbee.netlify.app/tags/bat/</guid>
       <description></description>
     </item>
     <item>
       <title>Friend</title>
-      <link>http://localhost:1313/tags/friend/</link>
+      <link>https://moonselbee.netlify.app/tags/friend/</link>
       <pubDate>Sun, 28 Dec 2025 05:53:33 +0000</pubDate>
-      <guid>http://localhost:1313/tags/friend/</guid>
+      <guid>https://moonselbee.netlify.app/tags/friend/</guid>
       <description></description>
     </item>
     <item>
       <title>Who</title>
-      <link>http://localhost:1313/tags/who/</link>
+      <link>https://moonselbee.netlify.app/tags/who/</link>
       <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/who/</guid>
+      <guid>https://moonselbee.netlify.app/tags/who/</guid>
       <description></description>
     </item>
   </channel>

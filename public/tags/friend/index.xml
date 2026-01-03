@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Friend on moonselbee</title>
-    <link>http://localhost:1313/tags/friend/</link>
+    <link>https://moonselbee.netlify.app/tags/friend/</link>
     <description>Recent content in Friend on moonselbee</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Dec 2025 05:53:33 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/friend/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://moonselbee.netlify.app/tags/friend/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hello</title>
-      <link>http://localhost:1313/post/2025/hello/</link>
+      <link>https://moonselbee.netlify.app/post/2025/hello/</link>
       <pubDate>Sun, 28 Dec 2025 05:53:33 +0000</pubDate>
-      <guid>http://localhost:1313/post/2025/hello/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s me, the Drawselbee.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/media/pipistrellus_female-1.jpg&#34; alt=&#34;little  bat&#34; title=&#34;little bat&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://moonselbee.netlify.app/post/2025/hello/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s me, the Drawselbee.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://moonselbee.netlify.app/media/pipistrellus_female-1.jpg&#34; alt=&#34;little  bat&#34; title=&#34;little bat&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
