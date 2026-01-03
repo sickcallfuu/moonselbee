@@ -1,7 +1,7 @@
 ---
-title: Treasured Feather Blade
+title: Primordial
 date: 2026-01-03T22:37:00.000+00:00
 tags:
   - test
 ---
-![](/media/uploads/a8de0104d5802f5b8208511907382d0d.jpg)
+![](/media/uploads/b85f7048bd6d210f9069da3411444430.jpg)
