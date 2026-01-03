@@ -15,10 +15,6 @@ subtitle     = "test site for moon"
   name = 'about'
   url = '/page/about'
   weight = 10
-[[menu.main]]
-  name = 'time'
-  url = '/page/time'
-  weight = 20
 
 [markup.tableOfContents]
 endLevel   = 6
