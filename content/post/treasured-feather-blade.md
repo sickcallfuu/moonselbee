@@ -1,7 +1,5 @@
 ---
-title: Treasured Feather Blade
-date: 2026-01-03T22:30:00.000+00:00
+title: Sun Dark
+date: 2026-01-03T22:31:00.000+00:00
 ---
-
-
-![](/media/uploads/a8de0104d5802f5b8208511907382d0d.jpg)
+![](/media/uploads/396d5d451e09f2980f3237b84375aead.jpg)
