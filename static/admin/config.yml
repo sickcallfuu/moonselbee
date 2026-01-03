@@ -13,7 +13,7 @@ collections:
     fields: # The fields for each document, usually in front matter
       - { label: "title", name: "title", widget: "string" }
       - { label: "date", name: "date", widget: "datetime" }
-      - { tags: "tags", name: "tags", widget: "string" }
+      - { tags: "tags", name: "tags", widget: "list" }
       - { label: "body", name: "body", widget: "markdown" }
 
   - name: "page"
@@ -24,6 +24,7 @@ collections:
     fields:
       - { label: "title", name: "title", widget: "string" }
       - { label: "date", name: "date", widget: "datetime" }
+      - { tags: "tags", name: "tags", widget: "list" }
       - { label: "body", name: "body", widget: "markdown" }
 
   - name: "current" # Used in routes, e.g., /admin/collections/blog
@@ -34,5 +35,5 @@ collections:
     fields: # The fields for each document, usually in front matter
       - { label: "title", name: "title", widget: "string" }
       - { label: "date", name: "date", widget: "datetime" }
-      - { tags: "tags", name: "tags", widget: "string" }
+      - { tags: "tags", name: "tags", widget: "list" }
       - { label: "body", name: "body", widget: "markdown" }
