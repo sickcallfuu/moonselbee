@@ -1,0 +1,3 @@
+<p>~<p>
+<div class="current">currently{{ range (where .Site.Pages "Section" "current") }} {{ range first 1 .Data.Pages  }}{{ .Content }}</div>
+{{ end }}{{ end }}

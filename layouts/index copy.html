@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+{{- partial "head.html" . -}}
+
+<body>
+    {{- partial "header.html" . -}}
+    {{- partial "current.html" .}}
+    <hr>
+    
+
+    {{$p := .Pages}}
+    {{if .IsHome}}
+    {{$p = where site.RegularPages "Type" "in" site.Params.mainSections}}
+    {{else if eq .Kind "taxonomy"}}
+    {{$p = $p.ByLastmod.Reverse }}
+    {{end}}
+    {{$paginator := .Paginate $p}}
+
+    <!--list-->
+    {{range $paginator.Pages}}
+    <article>
+        <p class="post-title">{{.Title}}</p>
+        <p class="post-meta"><a href="{{.RelPermalink}}">{{.Date.Format "2006-01-02"}}</a></p>
+        {{ .Content }}
+        
+    </article>
+    {{end}}
+
+
+    <!--pagination-->
+    {{- partial "pagination.html" . -}}
+    {{- partial "footer.html" . -}}
+</body>
+
+</html>

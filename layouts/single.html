@@ -1,0 +1,23 @@
+{{define "main"}}
+
+<!--Title-->
+<h2>{{.Title}}</h2>
+
+<!--Date-->
+<p><i>{{.Date.Format "2006-01-02"}}</i></p>
+
+<!--TOC-->
+{{.TableOfContents}}
+
+<!--Content-->
+{{.Content}}
+
+<!--Tag-->
+<p>~</p>
+<p>tags: {{range (.GetTerms "tags")}}<a href="{{.RelPermalink}}">{{.LinkTitle}}</a>, {{end}}</p>
+
+<!--Prev/Next-->
+{{with .PrevInSection}}prev: <a href="{{.RelPermalink}}">{{.Title}}</a>{{end}} / 
+{{with .NextInSection}}next: <a href="{{.RelPermalink}}">{{.Title}}</a>{{end}}
+
+{{end}}
